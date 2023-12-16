@@ -14,7 +14,7 @@ import {
   shield,
   star,
 } from "../assets";
-console.log(people01);
+
 export const navLinks = [
   {
     id: "home",
