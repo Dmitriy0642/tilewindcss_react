@@ -1,5 +1,5 @@
-import React from "react";
-import style from "./style";
+import React from 'react'
+import style from './style'
 import {
   Navbar,
   Hero,
@@ -11,7 +11,7 @@ import {
   CTA,
   Footer,
   Billing,
-} from "../src/components";
+} from '../src/components'
 
 function App() {
   return (
@@ -33,7 +33,7 @@ function App() {
         </div>
       </div>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
